@@ -1,0 +1,12 @@
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\bin\Debug\TermProject.exe.config
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\bin\Debug\TermProject.exe
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\bin\Debug\TermProject.pdb
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.csproj.AssemblyReference.cache
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.csproj.CoreCompileInputs.cache
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.exe
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.pdb
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.Winform.MainForm.resources
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.Winform.Start.resources
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.csproj.GenerateResource.cache
+C:\Users\lilies\Desktop\Object_oriented\Code\TermProject\TermProject\obj\Debug\TermProject.Properties.Resources.resources
